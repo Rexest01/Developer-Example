@@ -1,0 +1,6 @@
+@ACME.Hello.Plataform_HostAddress = http://localhost:5261
+
+GET {{ACME.Hello.Plataform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
